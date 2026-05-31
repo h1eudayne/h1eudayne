@@ -107,7 +107,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Helm
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/control-panel.png" width="48" height="48" alt="Rancher" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" />
       <br>Rancher
     </td>
     <td align="center" width="110">
@@ -225,7 +225,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>PostgreSQL
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC292B" width="48" height="48" alt="SQL Server" />
+      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="SQL Server" />
       <br>SQL Server
     </td>
     <td align="center" width="110">
@@ -243,7 +243,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>NFS Storage
     </td>
     <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/goharbor/goharbor-icon.svg" width="48" height="48" alt="Harbor" />
+      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/harbor/icon/color/harbor-icon-color.svg" width="48" height="48" alt="Harbor" />
       <br>Harbor
     </td>
   </tr>
