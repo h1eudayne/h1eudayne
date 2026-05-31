@@ -107,7 +107,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Helm
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" />
+      <img src="https://img.icons8.com/color/48/000000/control-panel.png" width="48" height="48" alt="Rancher" />
       <br>Rancher
     </td>
     <td align="center" width="110">
@@ -253,11 +253,11 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webassembly/webassembly-original.svg" width="48" height="48" alt="Assembly" />
+      <img src="https://cdn.simpleicons.org/intel/0071C5" width="48" height="48" alt="Assembly" />
       <br>Assembly
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/source-code.png" width="48" height="48" alt="IDA Pro" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marquise_de_Maintenon.jpg/120px-Marquise_de_Maintenon.jpg" width="48" height="48" alt="IDA Pro" />
       <br>IDA Pro
     </td>
     <td align="center" width="110">
