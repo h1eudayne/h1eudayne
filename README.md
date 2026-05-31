@@ -253,11 +253,11 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/microchip.png" width="48" height="48" alt="Assembly" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webassembly/webassembly-original.svg" width="48" height="48" alt="Assembly" />
       <br>Assembly
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/binary.png" width="48" height="48" alt="IDA Pro" />
+      <img src="https://img.icons8.com/color/48/000000/source-code.png" width="48" height="48" alt="IDA Pro" />
       <br>IDA Pro
     </td>
     <td align="center" width="110">
@@ -283,7 +283,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>PE / DIE Tools
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/hacking.png" width="48" height="48" alt="Cheat Engine" />
+      <img src="https://img.icons8.com/color/48/000000/joystick.png" width="48" height="48" alt="Cheat Engine" />
       <br>Cheat Engine
     </td>
   </tr>
