@@ -45,7 +45,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Java
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/csharp/239120" width="48" height="48" alt="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="110">
@@ -167,7 +167,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Katalon
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/test.png" width="48" height="48" alt="Keploy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Keploy" />
       <br>Keploy
     </td>
     <td align="center" width="110">
@@ -175,7 +175,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Postman AI
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/code-coverage.png" width="48" height="48" alt="Jacoco" />
+      <img src="https://cdn.simpleicons.org/sonarqube/F3C100" width="48" height="48" alt="Jacoco" />
       <br>JaCoCo
     </td>
     <td align="center" width="110">
