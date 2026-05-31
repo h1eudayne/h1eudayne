@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/h1eudayne">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;DevOps+&amp;+RE+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 
 ## 📖 Giới thiệu bản thân
 
-Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thống và vận hành hạ tầng (DevOps). Tôi đam mê thiết kế các hệ thống có tính sẵn sàng cao, tự động hóa quy trình triển khai toàn diện, nghiên cứu ứng dụng Trí tuệ nhân tạo (AI & NLP), và tối ưu hóa quy trình kiểm thử tự động hóa (Automation Testing).
+Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thống, vận hành hạ tầng (DevOps) và nghiên cứu bảo mật hệ thống (Security Research). Tôi có kinh nghiệm thực chiến trong việc đóng gói ứng dụng, thiết kế hệ thống CI/CD, nghiên cứu ứng dụng Trí tuệ nhân tạo (AI & NLP), kiểm thử tự động, và đặc biệt là phân tích mã độc / dịch ngược mã máy cấp độ thấp (Reverse Engineering).
 
-- 💬 Trao đổi với tôi về **Web Development, Cloud Computing, DevOps, System Design, AI/NLP, Automation Testing**
+- 💬 Trao đổi với tôi về **Web Development, DevOps, AI/NLP, Automation Testing, Reverse Engineering, Binary Analysis**
 - ✉️ Bạn có thể kết nối với tôi qua email: **voduchieu42@gmail.com**
 
 ---
@@ -249,7 +249,47 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🛠️ 6. Tools, Editors & Git (Công cụ & Trình soạn thảo)
+### 🔍 6. Reverse Engineering & Binary Analysis (Phân tích nhị phân & Dịch ngược - RE)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/microchip.png" width="48" height="48" alt="Assembly" />
+      <br>Assembly
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/binary.png" width="48" height="48" alt="IDA Pro" />
+      <br>IDA Pro
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/dragon.png" width="48" height="48" alt="Ghidra" />
+      <br>Ghidra
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/ninja.png" width="48" height="48" alt="Binary Ninja" />
+      <br>Binary Ninja
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/gnu/E71F18" width="48" height="48" alt="GDB" />
+      <br>GDB Debugger
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/syringe.png" width="48" height="48" alt="Frida" />
+      <br>Frida
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/search-property.png" width="48" height="48" alt="PE Tools" />
+      <br>PE / DIE Tools
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/hacking.png" width="48" height="48" alt="Cheat Engine" />
+      <br>Cheat Engine
+    </td>
+  </tr>
+</table>
+
+### 🛠️ 7. Tools, Editors & Git (Công cụ & Trình soạn thảo)
 <table>
   <tr>
     <td align="center" width="110">
