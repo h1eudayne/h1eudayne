@@ -1,4 +1,4 @@
-# Vo Duc Hieu
+# Hello everyone, I am Võ Đức Hiếu
 
 <p align="center">
   <a href="https://github.com/h1eudayne">
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am Võ Đức Hiếu, a Software Engineer specializing in systems development, cloud infrastructure (DevOps), and security research. I am a member of **Little Boy's** group.
+I am Võ Đức Hiếu, a Software Engineer specializing in systems development, cloud infrastructure (DevOps), and security research. I am a member of the **`Little Boy's`** group.
 
 * **Portfolio**: Discover my projects and works at [h1eudayne.dev](https://h1eudayne.dev/)
 * **Interests**: Let's discuss Web Development, Cloud Computing, DevOps, System Design, AI/NLP, and Reverse Engineering.
