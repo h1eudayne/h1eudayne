@@ -21,7 +21,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, scss
           config_timezone: Asia/Ho_Chi_Minh
-
       - name: 3D Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -31,7 +30,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Ho_Chi_Minh
-
       - name: Unlocked Achievements
         uses: lowlighter/metrics@latest
         with:
