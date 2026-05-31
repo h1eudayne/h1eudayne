@@ -74,6 +74,20 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48" height="48" alt=".NET" />
       <br>.NET Core
     </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="48" height="48" alt="NextJS" />
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
+      <br>Node.js
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" width="48" height="48" alt="Thymeleaf" />
+      <br>Thymeleaf
+    </td>
   </tr>
 </table>
 
@@ -93,7 +107,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Helm
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" />
+      <img src="https://img.icons8.com/color/48/000000/control-panel.png" width="48" height="48" alt="Rancher" />
       <br>Rancher
     </td>
     <td align="center" width="110">
@@ -191,7 +205,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🗄️ 5. Databases, Storage & Proxy (Cơ sở dữ liệu & Lưu trữ)
+### 🗄️ 5. Databases, Storage & Proxy (Cơ sở dữ liệu, Lưu trữ & Proxy)
 <table>
   <tr>
     <td align="center" width="110">
@@ -207,6 +221,20 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Redis
     </td>
     <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC292B" width="48" height="48" alt="SQL Server" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/000000/nginx.png" width="48" height="48" alt="Nginx" />
       <br>Nginx / Ingress
     </td>
@@ -215,7 +243,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>NFS Storage
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/goharbor/60B3F6" width="48" height="48" alt="Harbor" />
+      <img src="https://www.vectorlogo.zone/logos/goharbor/goharbor-icon.svg" width="48" height="48" alt="Harbor" />
       <br>Harbor
     </td>
   </tr>
