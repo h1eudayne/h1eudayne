@@ -315,6 +315,13 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
 > [!NOTE]
 > The following analytics dashboard is automatically generated and updated daily using `lowlighter/metrics` via GitHub Actions.
 
+### GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=h1eudayne&theme=dracula&column=7" alt="GitHub Trophies" width="100%" />
+  </a>
+</p>
+
 ### Contributions & Language Analytics
 <p align="center">
   <img src="metrics.svg" alt="GitHub Metrics" width="80%" />
