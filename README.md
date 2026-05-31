@@ -11,14 +11,16 @@
   <a href="https://github.com/h1eudayne"><img src="https://img.shields.io/github/stars/h1eudayne?label=Stars&style=for-the-badge&color=F59E0B" alt="Stars"></a>
   <a href="https://github.com/h1eudayne"><img src="https://komarev.com/ghpvc/?username=h1eudayne&color=22C55E&style=for-the-badge&label=Profile+Views" alt="Profile Views" /></a>
   <a href="https://linkedin.com/in/h1eudayne/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://h1eudayne.dev/"><img src="https://img.shields.io/badge/Portfolio-h1eudayne.dev-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
 ## About Me
 
-I am a Software Engineer specializing in systems development, cloud infrastructure (DevOps), and security research. I have practical experience in containerization, end-to-end automated CI/CD pipelines, advanced Kubernetes architecture, automation testing, and low-level binary analysis/reverse engineering.
+I am Võ Đức Hiếu, a Software Engineer specializing in systems development, cloud infrastructure (DevOps), and security research. I am a member of **Little Boy's** group.
 
+* **Portfolio**: Discover my projects and works at [h1eudayne.dev](https://h1eudayne.dev/)
 * **Interests**: Let's discuss Web Development, Cloud Computing, DevOps, System Design, AI/NLP, and Reverse Engineering.
 * **Get in touch**: Connect with me via email at **voduchieu42@gmail.com**
 
