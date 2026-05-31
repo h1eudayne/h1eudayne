@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là Võ Đức Hiếu!
+# Vo Duc Hieu
 
 <p align="center">
   <a href="https://github.com/h1eudayne">
@@ -14,18 +14,18 @@
 
 ---
 
-## 📖 Giới thiệu bản thân
+## About Me
 
-Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thống, vận hành hạ tầng (DevOps) và nghiên cứu bảo mật hệ thống (Security Research). Tôi có kinh nghiệm thực chiến trong việc đóng gói ứng dụng, thiết kế hệ thống CI/CD, nghiên cứu ứng dụng Trí tuệ nhân tạo (AI & NLP), kiểm thử tự động, và đặc biệt là phân tích mã độc / dịch ngược mã máy cấp độ thấp (Reverse Engineering).
+I am a Software Engineer specializing in systems development, cloud infrastructure (DevOps), and security research. I have practical experience in containerization, end-to-end automated CI/CD pipelines, advanced Kubernetes architecture, automation testing, and low-level binary analysis/reverse engineering.
 
-- 💬 Trao đổi với tôi về **Web Development, DevOps, AI/NLP, Automation Testing, Reverse Engineering, Binary Analysis**
-- ✉️ Bạn có thể kết nối với tôi qua email: **voduchieu42@gmail.com**
+* **Interests**: Let's discuss Web Development, Cloud Computing, DevOps, System Design, AI/NLP, and Reverse Engineering.
+* **Get in touch**: Connect with me via email at **voduchieu42@gmail.com**
 
 ---
 
-## 🛠️ Hộp Công Cụ Công Nghệ & Kỹ Năng (Tech Stack)
+## Technical Skills & Tech Stack
 
-### 💻 1. Development & Backend Frameworks (Lập trình & Phát triển ứng dụng - DEV)
+### 1. Development & Backend Frameworks
 <table>
   <tr>
     <td align="center" width="110">
@@ -91,7 +91,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🚀 2. DevOps & CI/CD (Tích hợp & Vận hành hạ tầng - DEVOPS)
+### 2. DevOps & CI/CD
 <table>
   <tr>
     <td align="center" width="110">
@@ -147,7 +147,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🤖 3. Artificial Intelligence & NLP (Trí tuệ nhân tạo)
+### 3. Artificial Intelligence & NLP
 <table>
   <tr>
     <td align="center" width="110">
@@ -169,7 +169,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🧪 4. Automation Testing & QA (Kiểm thử tự động & Quản lý chất lượng)
+### 4. Automation Testing & QA
 <table>
   <tr>
     <td align="center" width="110">
@@ -205,7 +205,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🗄️ 5. Databases, Storage & Proxy (Cơ sở dữ liệu, Lưu trữ & Proxy)
+### 5. Databases, Storage & Proxy
 <table>
   <tr>
     <td align="center" width="110">
@@ -249,7 +249,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🔍 6. Reverse Engineering & Binary Analysis (Phân tích nhị phân & Dịch ngược - RE)
+### 6. Reverse Engineering & Binary Analysis
 <table>
   <tr>
     <td align="center" width="110">
@@ -289,7 +289,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
   </tr>
 </table>
 
-### 🛠️ 7. Tools, Editors & Git (Công cụ & Trình soạn thảo)
+### 7. Tools, Editors & Git
 <table>
   <tr>
     <td align="center" width="110">
@@ -309,17 +309,17 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
 
 ---
 
-## 📊 Bảng Thống Kê Hoạt Động (Developer Dashboard)
+## Developer Analytics & Insights
 
-> [!TIP]
-> Bảng thống kê dưới đây được tự động tạo và cập nhật hàng ngày bằng công cụ `lowlighter/metrics` thông qua GitHub Actions.
+> [!NOTE]
+> The following analytics dashboard is automatically generated and updated daily using `lowlighter/metrics` via GitHub Actions.
 
-### 📈 Chỉ Chỉ Số GitHub & Ngôn Ngữ Lập Trình
+### Contributions & Language Analytics
 <p align="center">
   <img src="metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
 
-### 📅 Lịch Đóng Góp 3D (Isometric Contribution Calendar)
+### Contributions Calendar
 <p align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="3D Calendar" width="100%" />
 </p>
@@ -327,5 +327,5 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
 ---
 
 <p align="center">
-  <i>Được tự động cập nhật và duy trì với ❤️ bởi GitHub Actions.</i>
+  <i>Automatically maintained and updated daily via GitHub Actions.</i>
 </p>
