@@ -25,8 +25,8 @@ Tôi là một kỹ sư phần mềm đam mê xây dựng các sản phẩm côn
 
 ## 🛠️ Hộp Công Cụ Công Nghệ (Tech Stack)
 
+### 💻 Development (Lập trình & Phát triển)
 <table>
-  <!-- Row 1: Languages & Frameworks -->
   <tr>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -52,35 +52,15 @@ Tôi là một kỹ sư phần mềm đam mê xây dựng các sản phẩm côn
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
-  </tr>
-  <!-- Row 2: Scripting, Database & Web Servers -->
-  <tr>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-      <br>Bash Shell
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" />
-      <br>MariaDB
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
   </tr>
-  <!-- Row 3: DevOps, CI/CD & Cloud Infrastructure -->
+</table>
+
+### 🚀 DevOps & CI/CD (Vận hành & Tự động hóa)
+<table>
   <tr>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -91,11 +71,11 @@ Tôi là một kỹ sư phần mềm đam mê xây dựng các sản phẩm côn
       <br>Kubernetes
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/helm.png" width="48" height="48" alt="Helm" />
+      <img src="https://cdn.simpleicons.org/helm/0F1626" width="48" height="48" alt="Helm" />
       <br>Helm
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/rancher.png" width="48" height="48" alt="Rancher" />
+      <img src="https://cdn.simpleicons.org/rancher/005A9C" width="48" height="48" alt="Rancher" />
       <br>Rancher
     </td>
     <td align="center" width="110">
@@ -106,8 +86,19 @@ Tôi là một kỹ sư phần mềm đam mê xây dựng các sản phẩm côn
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
       <br>Jenkins
     </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      <br>Bash Shell
+    </td>
   </tr>
-  <!-- Row 4: Cloud Providers & Repositories -->
+</table>
+
+### ☁️ Cloud & Infrastructure (Đám mây & Hạ tầng)
+<table>
   <tr>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
@@ -122,16 +113,34 @@ Tôi là một kỹ sư phần mềm đam mê xây dựng các sản phẩm côn
       <br>Azure
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
-      <br>GitHub
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/harbor.png" width="48" height="48" alt="Harbor" />
+      <img src="https://cdn.simpleicons.org/harbor/60B3F6" width="48" height="48" alt="Harbor" />
       <br>Harbor
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/network-folder.png" width="48" height="48" alt="NFS Storage" />
+      <img src="https://cdn.simpleicons.org/server/4285F4" width="48" height="48" alt="NFS Storage" />
       <br>NFS Storage
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & Caching (Cơ sở dữ liệu & Bộ nhớ đệm)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" />
+      <br>MariaDB
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
   </tr>
 </table>
