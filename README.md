@@ -1,4 +1,4 @@
-# Hello, I'm Võ Đức Hiếu!
+# Vo Duc Hieu
 
 <p align="center">
   <a href="https://github.com/h1eudayne">
@@ -317,6 +317,11 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
 ### Contributions & Language Analytics
 <p align="center">
   <img src="metrics.svg" alt="GitHub Metrics" width="80%" />
+</p>
+
+### Unlocked Achievements
+<p align="center">
+  <img src="metrics.plugin.achievements.svg" alt="GitHub Achievements" width="80%" />
 </p>
 
 ### Contributions Calendar
