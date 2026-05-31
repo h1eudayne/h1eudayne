@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/h1eudayne"><img src="https://img.shields.io/github/followers/h1eudayne?label=Followers&style=for-the-badge&color=2563EB" alt="Followers"></a>
   <a href="https://github.com/h1eudayne"><img src="https://img.shields.io/github/stars/h1eudayne?label=Stars&style=for-the-badge&color=F59E0B" alt="Stars"></a>
-  <img src="https://komarev.com/personal-counter/?username=h1eudayne&color=10B981&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/personal-counter/?username=h1eudayne&color=green&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <a href="https://linkedin.com/in/h1eudayne/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
