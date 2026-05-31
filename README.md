@@ -61,27 +61,14 @@ Tôi là một kỹ sư phần mềm đam mê xây dựng các sản phẩm côn
 > [!TIP]
 > Bảng thống kê dưới đây được tự động tạo và cập nhật hàng ngày bằng công cụ `lowlighter/metrics` thông qua GitHub Actions.
 
-<table border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>📈 Chỉ Số GitHub & Ngôn Ngữ</h3>
-      <img src="metrics.svg" alt="GitHub Metrics" width="100%" />
-    </td>
-    <td width="45%" valign="top">
-      <h3>🕒 Thói Quen Lập Trình</h3>
-      <img src="metrics.plugin.habits.svg" alt="Coding Habits" width="100%" />
-    </td>
-  </tr>
-</table>
+### 📈 Chỉ Chỉ Số GitHub & Ngôn Ngữ Lập Trình
+<p align="center">
+  <img src="metrics.svg" alt="GitHub Metrics" width="80%" />
+</p>
 
 ### 📅 Lịch Đóng Góp 3D (Isometric Contribution Calendar)
 <p align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="3D Calendar" width="100%" />
-</p>
-
-### 🏆 Danh Hiệu Đã Đạt Được (Achievements)
-<p align="center">
-  <img src="metrics.plugin.achievements.svg" alt="Achievements Badges" width="100%" />
 </p>
 
 ---
