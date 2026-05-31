@@ -50,7 +50,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
       <br>C#
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
   </tr>
@@ -108,7 +108,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
       <br>Helm
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/control-panel.png" width="48" height="48" alt="Rancher" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" />
       <br>Rancher
     </td>
     <td align="center" width="110">
@@ -254,11 +254,11 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="assets/assembly.png" width="48" height="48" alt="Assembly" />
+      <img src="https://img.icons8.com/color/48/000000/processor.png" width="48" height="48" alt="Assembly" />
       <br>Assembly
     </td>
     <td align="center" width="110">
-      <img src="assets/ida_pro.png" width="48" height="48" alt="IDA Pro" />
+      <img src="https://img.icons8.com/color/48/000000/debugger.png" width="48" height="48" alt="IDA Pro" />
       <br>IDA Pro
     </td>
     <td align="center" width="110">
