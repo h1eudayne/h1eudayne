@@ -1,22 +1,31 @@
 # Vo Duc Hieu
+
 <p align="center">
   <a href="https://github.com/h1eudayne">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;DevOps+&amp;+RE+Engineer" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/h1eudayne"><img src="https://img.shields.io/github/followers/h1eudayne?label=Followers&style=for-the-badge&color=2563EB" alt="Followers"></a>
   <a href="https://github.com/h1eudayne"><img src="https://img.shields.io/github/stars/h1eudayne?label=Stars&style=for-the-badge&color=F59E0B" alt="Stars"></a>
   <a href="https://github.com/h1eudayne"><img src="https://komarev.com/ghpvc/?username=h1eudayne&color=22C55E&style=for-the-badge&label=Profile+Views" alt="Profile Views" /></a>
   <a href="https://linkedin.com/in/h1eudayne/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
 ---
+
 ## About Me
+
 I am a Software Engineer specializing in systems development, cloud infrastructure (DevOps), and security research. I have practical experience in containerization, end-to-end automated CI/CD pipelines, advanced Kubernetes architecture, automation testing, and low-level binary analysis/reverse engineering.
+
 * **Interests**: Let's discuss Web Development, Cloud Computing, DevOps, System Design, AI/NLP, and Reverse Engineering.
 * **Get in touch**: Connect with me via email at **voduchieu42@gmail.com**
+
 ---
+
 ## Technical Skills & Tech Stack
+
 ### 1. Development & Backend Frameworks
 <table>
   <tr>
@@ -82,6 +91,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
     </td>
   </tr>
 </table>
+
 ### 2. DevOps & CI/CD
 <table>
   <tr>
@@ -137,6 +147,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
     </td>
   </tr>
 </table>
+
 ### 3. Artificial Intelligence & NLP
 <table>
   <tr>
@@ -158,6 +169,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
     </td>
   </tr>
 </table>
+
 ### 4. Automation Testing & QA
 <table>
   <tr>
@@ -193,6 +205,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
     </td>
   </tr>
 </table>
+
 ### 5. Databases, Storage & Proxy
 <table>
   <tr>
@@ -236,6 +249,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
     </td>
   </tr>
 </table>
+
 ### 6. Reverse Engineering & Binary Analysis
 <table>
   <tr>
@@ -275,6 +289,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
     </td>
   </tr>
 </table>
+
 ### 7. Tools, Editors & Git
 <table>
   <tr>
@@ -292,19 +307,26 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
     </td>
   </tr>
 </table>
+
 ---
+
 ## Developer Analytics & Insights
+
 > [!NOTE]
 > The following analytics dashboard is automatically generated and updated daily using `lowlighter/metrics` via GitHub Actions.
+
 ### Contributions & Language Analytics
 <p align="center">
   <img src="metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
+
 ### Contributions Calendar
 <p align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="3D Calendar" width="100%" />
 </p>
+
 ---
+
 <p align="center">
   <i>Automatically maintained and updated daily via GitHub Actions.</i>
 </p>
