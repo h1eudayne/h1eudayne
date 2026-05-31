@@ -257,7 +257,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Assembly
     </td>
     <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marquise_de_Maintenon.jpg/120px-Marquise_de_Maintenon.jpg" width="48" height="48" alt="IDA Pro" />
+      <img src="https://img.icons8.com/color/48/000000/binary-file.png" width="48" height="48" alt="IDA Pro" />
       <br>IDA Pro
     </td>
     <td align="center" width="110">
