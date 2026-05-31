@@ -93,7 +93,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Helm
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/control-panel.png" width="48" height="48" alt="Rancher" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" />
       <br>Rancher
     </td>
     <td align="center" width="110">
@@ -145,8 +145,8 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>NLU Pipelines
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/search-database.png" width="48" height="48" alt="FAISS" />
-      <br>FAISS (Vector)
+      <img src="https://cdn.simpleicons.org/meta/0668E1" width="48" height="48" alt="FAISS" />
+      <br>FAISS (Meta)
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="SBERT" />
@@ -167,7 +167,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Katalon
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="48" height="48" alt="Keploy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Keploy" />
       <br>Keploy
     </td>
     <td align="center" width="110">
@@ -175,7 +175,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>Postman AI
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/verified-badge.png" width="48" height="48" alt="Jacoco" />
+      <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="48" height="48" alt="Jacoco" />
       <br>JaCoCo
     </td>
     <td align="center" width="110">
@@ -215,7 +215,7 @@ Tôi là một kỹ sư phần mềm chuyên sâu về phát triển hệ thốn
       <br>NFS Storage
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/anchor.png" width="48" height="48" alt="Harbor" />
+      <img src="https://cdn.simpleicons.org/goharbor/60B3F6" width="48" height="48" alt="Harbor" />
       <br>Harbor
     </td>
   </tr>
