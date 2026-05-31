@@ -318,7 +318,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
 ### GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=h1eudayne&theme=dracula&column=7" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy-cua-ban.vercel.app/?username=h1eudayne&theme=dracula&column=7" alt="GitHub Trophies" width="100%" />
   </a>
 </p>
 
