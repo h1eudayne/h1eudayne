@@ -50,7 +50,7 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
       <br>C#
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
   </tr>
@@ -324,12 +324,12 @@ I am a Software Engineer specializing in systems development, cloud infrastructu
 
 ### Contributions & Language Analytics
 <p align="center">
-  <img src="metrics_renders/metrics.svg" alt="GitHub Metrics" width="80%" />
+  <img src="metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
 
 ### Contributions Calendar
 <p align="center">
-  <img src="metrics_renders/metrics.plugin.isocalendar.svg" alt="3D Calendar" width="100%" />
+  <img src="metrics.plugin.isocalendar.svg" alt="3D Calendar" width="100%" />
 </p>
 
 ---
